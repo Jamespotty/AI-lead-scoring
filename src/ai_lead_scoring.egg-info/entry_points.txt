@@ -1,0 +1,2 @@
+[console_scripts]
+run-app = ai_lead_scoring.app:main

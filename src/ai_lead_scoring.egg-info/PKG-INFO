@@ -1,3 +1,14 @@
+Metadata-Version: 2.4
+Name: ai-lead-scoring
+Version: 0.1.0
+Summary: AI-powered social media lead scoring tool using Streamlit and OpenAI
+Author: User
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit>=1.30.0
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: openai>=1.0.0
+
 # 🎯 AI Lead Scoring
 
 AI Lead Scoring is an intelligent application that helps you classify pre-scraped social media posts, comments, or CRM leads. By comparing raw text data to your Ideal Customer Profile (ICP), it automatically scores leads as `HIGH`, `WARM`, or `LOW` intent using OpenAI's models.

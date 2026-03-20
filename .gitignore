@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output
+*.jsonl
+
+# Streamlit
+.streamlit/
+secrets.toml
+
+# Virtual environments
+venv/
+.env
+
+# MacOS
+.DS_Store
